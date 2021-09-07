@@ -1,0 +1,5 @@
+ compile date = 12/05/17-18:17:16
+ patch dir    = ../patch/AGNSFSNpatch/AGNspin:../patch/AGNSFSNpatch/sfsn:../patch/init/dice
+ remote repo  = 
+ local branch = 
+ last commit  = 
