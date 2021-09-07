@@ -1,8 +1,0 @@
-nvar        =          7
-variable # 1: density
-variable # 2: velocity_x
-variable # 3: velocity_y
-variable # 4: velocity_z
-variable # 5: thermal_pressure
-variable # 6: passive_scalar_1
-variable # 7: passive_scalar_2
