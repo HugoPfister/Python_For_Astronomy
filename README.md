@@ -1,6 +1,7 @@
 # Python For Astronomy #
 
-This repository contains files that are useful for the introduction to Python.
+This repository contains files that are useful for the introduction to Python, a video of the Lecture can be found here: https://www.youtube.com/watch?v=STttKxJEWKc&ab_channel=HugoPfister
+
 
 ## Install libraries and softwares
 
